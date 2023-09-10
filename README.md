@@ -9,8 +9,8 @@ For my final capstone project, I decided to focus on Loan default prediction usi
 ## Contents
 
 This folders contains the final submission for my capstone project. Files include:
-- ** Data dictionary file**
-- ** Executive summary report**
-- ** Final capstone presentation**
+- **Data dictionary file**
+- **Executive summary report**
+- **Final capstone presentation**
 - **Loan_default_EDA**
-- - **Loan_default_Modelling**
+- **Loan_default_Modelling**
