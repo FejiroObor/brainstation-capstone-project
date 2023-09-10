@@ -11,7 +11,7 @@ This folder contains the final submission for my capstone project. Files include
 - **Data dictionary file**
 - **Executive summary report**
 - **Final capstone presentation**
-- **Loan_default_EDA**
+- **Notebook 1 - EDA**
   In this notebook, I performed some preliminary exploratory data analysis using visualizations to extract insights from the dataset's distribution.
-- **Loan_default_Modelling**
+- **Notebook 2 - Pre-processing and Modelling**
   In this notebook, I further cleaned and pre-processed the Lending Club data. After this, I  tested and optimized four supervised ML models. 
